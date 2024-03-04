@@ -60,7 +60,21 @@ public class Main {
                 }
             }
         }
+        int number = 2;
+        switch (number) {
+            case 1:
+                System.out.println("A");
+                break; // 항상 키워드와 같이 쓰자 !!!
+            case 2:
+                System.out.println("B");
+                break;
+            case 3:
+                System.out.println("C");
+                break;
+            default:
+                System.out.println("D");
+                break;
+        }
     }
 }
-
 
