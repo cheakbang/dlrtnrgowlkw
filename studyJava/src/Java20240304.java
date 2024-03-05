@@ -1,6 +1,7 @@
 public class Java20240304 {
 
     public static void main(String[] args) {
+
         // for 문 기본 문법 구조
         int a;
         for (a = 0; a < 3; a++) {
